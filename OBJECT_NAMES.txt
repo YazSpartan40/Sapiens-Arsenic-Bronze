@@ -1,0 +1,14 @@
+Objects added by Arsenic Bronze (display name → object ID → spawn command):
+
+- Arsenic Ore              → arsenicOre          → spawn("arsenicOre")
+- Arsenic Bronze Ingot     → arsenicBronzeIngot  → spawn("arsenicBronzeIngot")
+- Arsenic Axehead          → arsenicAxehead      → spawn("arsenicAxehead")
+- Arsenic Knife            → arsenicKnife        → spawn("arsenicKnife")
+- Arsenic Chisel           → arsenicChisel       → spawn("arsenicChisel")
+- Arsenic Spearhead        → arsenicSpearhead    → spawn("arsenicSpearhead")
+- Arsenic Hammerhead       → arsenicHammerhead   → spawn("arsenicHammerhead")
+- Arsenic Pickaxehead      → arsenicPickaxehead  → spawn("arsenicPickaxehead")
+- Arsenic Axe              → arsenicAxe          → spawn("arsenicAxe")
+- Arsenic Spear            → arsenicSpear        → spawn("arsenicSpear")
+- Arsenic Hammer           → arsenicHammer       → spawn("arsenicHammer")
+- Arsenic Pickaxe          → arsenicPickaxe      → spawn("arsenicPickaxe")
